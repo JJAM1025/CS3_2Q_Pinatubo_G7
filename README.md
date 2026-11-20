@@ -7,7 +7,7 @@
 
 ### Knoah Kenji D. Padilla (Knoah)
 
-Hi, I'm Knoah! I am 14 years old and I am in 9 - Pinatubo. Personally, I disagree with Je; eating isn't fun. I like burgers. CS3 is very fun and making a markdown file is a very fun part of it as well. <br> <img width="638" height="480" alt="image" src="https://github.com/user-attachments/assets/7e76aaff-df97-4639-a4c1-82d51cabe8e5" />
+Hi, I'm Knoah! I am 14 years old and I am in 9 - Pinatubo. Personally, I disagree with Je; eating isn't fun. I like burgers. Story time: I used to work at a burger place, and I received a complaint where the customer said the burger allegedly made an angry face at him. I told him that was impossible. He proceeded to storm out of the store and called pizza man. I never heard from him again. CS3 is very fun and making a markdown file is a very fun part of it as well. <br> <img width="638" height="480" alt="image" src="https://github.com/user-attachments/assets/7e76aaff-df97-4639-a4c1-82d51cabe8e5" />
 
 ### Daniel Legaspi (Dan)
 
