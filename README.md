@@ -10,4 +10,5 @@ Hi, I'm Knoah! I am 14 years old and I am in 9 - Pinatubo. Personally, I disagre
 
 ### Daniel Legaspi (Dan)
 
-**Hi I'm Dan**"! I am 14 years old an i am in 9 - Pinatubo. My favorite hobby is eating food and eating more food afterwards. CS3 is very fun and making a markdown file is a very fun part of it as well.
+**Hi I'm Dan**! Im 14 years old and im in 9 - pinatubo. personally, i disagree with knoah. I despise burgers, i love pizza. CS3 is very fun and making a markdown file is a very fun part of it as well. <br> <img width="740" height="416" alt="image" src="https://github.com/user-attachments/assets/292f7d44-70a7-43a8-adf9-52850b9cfde9" />
+
