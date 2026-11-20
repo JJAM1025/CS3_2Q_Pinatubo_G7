@@ -2,7 +2,8 @@
 ## About Us
 ### Jaime Jesus A. Mancao (Je)
 
-**Hi, I'm Je**! I am 15 years old and I am in 9 - Pinatubo. My favorite hobby is eating food and eating more food afterwards. CS3 is very fun and making a markdown file is a very fun part of it as well.
+**Hi, I'm Je**! I am 15 years old and I am in 9 - Pinatubo. My favorite hobby is eating food and eating more food afterwards. Despite liking food, I personally do not like burger. I ate a burger once and it made an angry face at me. CS3 is very fun and making a markdown file is a very fun part of it as well. <br> Picture of said angry burger: <br> <img width="402" height="280" alt="image" src="https://github.com/user-attachments/assets/0ba98c60-414a-40d4-9147-3450b26df0c0" /> <br> I do love pizza though. Thank you.
+
 
 ### Knoah Kenji D. Padilla (Knoah)
 
